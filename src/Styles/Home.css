@@ -1,0 +1,56 @@
+.home {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  }
+
+  .main-heading1 {
+    color: rgb(72, 180, 180);
+    font-size: 42pt;
+    font-weight: bold;
+    font-family: cursive;
+    position: relative;
+  }
+ 
+  .headerContainer {
+    width: auto;
+    margin-left: 50px;
+    padding: 25px;
+  }
+  
+  .headerContainer h1 {
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    height: 60px;
+    font-weight: 60;
+    color: teal;
+  }
+  
+  .headerContainer p {
+    padding: 0;
+    font-size: 26pt;
+    font-weight: lighter;
+    color: black;
+  }
+  
+  .headerContainer button {
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #121619;
+    height: 50px;
+    width: 180px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .headerContainer button:hover {
+    background-color: #07090a;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
+  
+  
